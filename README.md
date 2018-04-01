@@ -34,3 +34,14 @@ step5: once microservice started successfully, results / output will print on co
 
 ### Test Cases
 Test cases will run along with microservice startup. 	   
+
+
+##Note ( my doubt's ):
+###File_2_compare_to_File_1
+
+Not found 33010011,300.89798798 ( i didn't get this output.)
+
+File1: 33010011,400.098087686
+File2: 33010011,300.89798798
+
+so both files has 33010011 account number ,so how can we conclude Nof Found this record.
