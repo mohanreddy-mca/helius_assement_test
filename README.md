@@ -16,7 +16,7 @@ java 7 (used java 7 features)  and Maven. Java7 and maven should be on classpath
 ### Building and running microservice (SpringBoot).
 steps to download microservice from git and run.
 
-step1: git clone https://github.com/mohanreddy-mca/helius_assement_test.git (created private repository so username/password : cmohanreddy.mca@gmail.com/sathvik2003)
+step1: git clone https://github.com/mohanreddy-mca/helius_assement_test.git
 
 step2: after successfully download (cloned) project, goto project folder "helius_assement_test" using command promt (cmd) 
        then run this maven command "mvn clean install".
